@@ -10,7 +10,7 @@ House Prices - Advanced Regression Techniques კონკურსის მი
 ```
 ML_Assignment1/
 │
-├── model_experiment.ipynb    ← model_inference.ipynb
+├── model_experiment.ipynb    ← Cleaning, Feature Engineering, Training, MLflow
 ├── model_inference.ipynb     ← საუკეთესო მოდელის ჩამოტვირთვა, პროგნოზი, submission
 ├── README.md
 ```
